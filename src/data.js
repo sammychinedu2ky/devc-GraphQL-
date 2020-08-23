@@ -1,0 +1,2 @@
+exports.authors = []
+exports.books = []
